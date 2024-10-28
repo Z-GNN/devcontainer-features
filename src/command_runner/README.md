@@ -7,7 +7,7 @@ A feature to run any valid shell commands, such as apt-get, curl/wget, of course
 
 ```json
 "features": {
-    "ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {}
+    "ghcr.io/Z-GNN/devcontainer-features/command_runner:0": {}
 }
 ```
 
@@ -23,4 +23,4 @@ A feature to run any valid shell commands, such as apt-get, curl/wget, of course
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wxw-matt/devcontainer-features/blob/main/src/command_runner/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Z-GNN/devcontainer-features/blob/main/src/command_runner/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._

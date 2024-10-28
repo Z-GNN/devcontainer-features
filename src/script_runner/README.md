@@ -7,7 +7,7 @@ A feature to load and run remote shell scripts
 
 ```json
 "features": {
-    "ghcr.io/wxw-matt/devcontainer-features/script_runner:0": {}
+    "ghcr.io/Z-GNN/devcontainer-features/script_runner:0": {}
 }
 ```
 
@@ -23,4 +23,4 @@ A feature to load and run remote shell scripts
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/wxw-matt/devcontainer-features/blob/main/src/script_runner/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/Z-GNN/devcontainer-features/blob/main/src/script_runner/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
